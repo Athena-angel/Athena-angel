@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Andrew Mark
+### Hi there 👋 I'm Athena
 
 - 🔭 I’m currently working on my own.
 - 🌱 I’m currently learning Blockchain and Reinforcement Learning.
