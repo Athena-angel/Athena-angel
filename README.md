@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Athena
+### Hi there 👋 I'm Crystal
 
 - 🔭 I’m currently working on my own.
 - 🌱 I’m currently learning Blockchain and Reinforcement Learning.
